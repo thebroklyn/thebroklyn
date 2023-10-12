@@ -7,9 +7,9 @@ languages that i know/learning: C#, kotlin, python, sourcepawn.
 > [!NOTE]
 > An **18 yo** student who is studying to become a software backend developer.
 > 
-> [Z-Zoo's](https://discord.gg/bAWmWNSaXX) dev.
+> [Zombie-Zoo's](https://discord.gg/bAWmWNSaXX) dev.
 > 
-> i used to make configs/vscripts for **CS:GO**
+> I used to make configs/vscripts for **CS:GO**
 
 
 
