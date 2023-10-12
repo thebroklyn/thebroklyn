@@ -5,11 +5,11 @@ languages that i know/learning: C#, kotlin, python, sourcepawn.
 
 ## Quick Info
 > [!NOTE]
-> An **18 yo** student who is studying to become a software backend developer.
+> An **18 yo** student who is studying to become a software backend developer;
 > 
-> [Zombie-Zoo's](https://discord.gg/bAWmWNSaXX) dev.
+> [Zombie-Zoo's](https://discord.gg/bAWmWNSaXX) dev;
 > 
-> I used to make configs/vscripts for **CS:GO**
+> I used to make configs/vscripts for **CS:GO**.
 
 
 
