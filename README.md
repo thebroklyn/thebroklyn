@@ -4,15 +4,14 @@ languages that i know/learning: C++ ,C#, Kotlin, Python.
 ---
 
 ## Quick Info
-> Studing on **Computer Science**
-> 
-> Used to make **configs** for CS:GO and CS:S
+- Studing on **Computer Science**
+- Used to make **configs** for CS:GO and CS:S
 
 
 ## Socials
-> Steam: [Click](https://steamcommunity.com/id/thebroklyn/)
-> Telegram: @broklyn4ever
-> Discord: bbroklyn
+- Steam: [Click](https://steamcommunity.com/id/thebroklyn/)
+- Telegram: @broklyn4ever
+- Discord: bbroklyn
 
 
 
