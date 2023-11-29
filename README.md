@@ -1,15 +1,17 @@
 ```yaml
-languages that i know/learning: C#, kotlin, python, sourcepawn.
+languages that i know/learning: C++ ,C#, Kotlin, Python.
 ```
 ---
 
 ## Quick Info
-> [!NOTE]
-> A **18 yo** student who is studying to become a software backend developer;
-> 
-> [Zombie-Zoo's](https://discord.gg/bAWmWNSaXX) dev;
-> 
-> I used to make configs/vscripts for **CS:GO**.
+> Studing on **Computer Science**
+> Used to make **configs** for CS:GO and CS:S
+
+
+## Socials
+> Steam: [Click](https://steamcommunity.com/id/thebroklyn/)
+> Telegram: @broklyn4ever
+> Discord: bbroklyn
 
 
 
