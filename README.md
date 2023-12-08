@@ -3,12 +3,12 @@ languages that i know/learning: C++ ,C#, Kotlin, Python.
 ```
 ---
 
-## Quick Info
-- Studing on **Computer Science**
-- Used to make **configs** for CS:GO and CS:S
+## Quick Info 🔖
+
+- 18 year old student studying Сomputer Science
 
 
-## Socials
+## Socials 📧
 - Steam: [Click](https://steamcommunity.com/id/thebroklyn/)
 - Telegram: @broklyn4ever
 - Discord: bbroklyn
