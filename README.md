@@ -1,5 +1,5 @@
 ```yaml
-languages that i know/learning: C++ ,C#, Kotlin, Python.
+languages that i know/learning: C++, Kotlin, Python.
 ```
 ---
 
