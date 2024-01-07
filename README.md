@@ -10,7 +10,6 @@ languages that i know/learning: C++, Kotlin, Python.
 
 ## Socials 📧
 - Steam: [Click](https://steamcommunity.com/id/thebroklyn/)
-- Telegram: @broklyn4ever
 - Discord: bbroklyn
 
 
